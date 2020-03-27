@@ -1,0 +1,2 @@
+rootProject.name='Libreria_Glide'
+include ':app'
