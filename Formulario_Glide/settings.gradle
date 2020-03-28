@@ -1,0 +1,2 @@
+rootProject.name='Formulario_Glide'
+include ':app'
